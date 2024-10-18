@@ -1,12 +1,12 @@
-## My stuff based on DSB-318 ##
+## My stuff ##
 ## Emily K. Sanders ##
 
-# R Studio
-*.R
-*.Rhistory
+# Raw Twitter Files
+*2024_10_04*
 
-# Python Text Scripts
-*.py
+# R Studio
+*.Rhistory
+*.Rproj
 
 # Secret hidden folders
 *ignore*/
